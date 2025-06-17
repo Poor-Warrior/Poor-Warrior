@@ -6,10 +6,10 @@
   <a href="http://discord.com/users/136203942374801408" target="_blank">
     <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="pedroaugustojaragoncalves@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroaugustojaragoncalves@gmail.com&su=ASSUNTO&body=MENSAGEM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/pedro-augusto-jara-gonçalves-8415991bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-augusto-jara-gon%C3%A7alves-8415991bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
